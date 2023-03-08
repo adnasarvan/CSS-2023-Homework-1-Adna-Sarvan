@@ -24,6 +24,22 @@ const questions = [
     d: "none of the above",
     correct: "b",
   },
+  {
+    question: "Where is CSS located?",
+    a: "Zenica",
+    b: "Sarajevo",
+    c: "Tuzla",
+    d: "Travnik",
+    correct: "a",
+  },
+  {
+    question: "What programme language CSS doesn't contain",
+    a: "JavaScript",
+    b: "HTML",
+    c: "Python",
+    d: "none of the above",
+    correct: "c",
+  },
 ];
 
 //Fetching the HTML elements
