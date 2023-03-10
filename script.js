@@ -2,11 +2,12 @@
 const questions = [
   {
     question: "What does CSS stand for?",
-    a: "Coding Summer/Spring School",
+    a: "Computer and Science Studies",
     b: "Coding Style Sheets",
     c: "Cascading Simple Sheets",
     d: "Cars SUVs & Sailboats",
-    correct: "a",
+    e: "Coding Summer/Spring School",
+    correct: "e",
   },
   {
     question: "When was Coding Summer/Spring School founded?",
@@ -14,6 +15,7 @@ const questions = [
     b: "2021",
     c: "2022",
     d: "2023",
+    e: "2020",
     correct: "b",
   },
   {
@@ -21,7 +23,8 @@ const questions = [
     a: "Bosnia and Herzegovina Famous Foundation",
     b: "Bosnia and Herzegovina Futures Foundation",
     c: "Bosnia and Herzegovina Factory Foundation",
-    d: "none of the above",
+    d: "Bosnia and Herzegovina Founders Foundation",
+    e: "none of the above",
     correct: "b",
   },
   {
@@ -30,6 +33,7 @@ const questions = [
     b: "Sarajevo",
     c: "Tuzla",
     d: "Travnik",
+    e: "Mostar",
     correct: "a",
   },
   {
@@ -37,7 +41,8 @@ const questions = [
     a: "JavaScript",
     b: "HTML",
     c: "Python",
-    d: "none of the above",
+    d: "CSS",
+    e: "none of the above",
     correct: "c",
   },
 ];
